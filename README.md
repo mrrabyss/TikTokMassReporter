@@ -39,5 +39,5 @@ This github repo is for EDUCATIONAL PURPOSES ONLY. I am NOT under any responsibi
 
 ## ✨ Issues / Doubts / Questions
 
-- If you have any questions do not hesitate to ask me: [telegram](https://t.me/wndkx_support_bot)
+- If you have any questions do not hesitate to ask me: [telegram](https://t.me/mrrabyss_bot)
 - Or if you have any error do not forget to report it in: [issues](https://github.com/wndkx/TiktokMassReporter/issues/new)
